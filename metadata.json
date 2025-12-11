@@ -1,0 +1,5 @@
+{
+  "name": "SmartSukuk Defender",
+  "description": "A Post-Quantum Cryptography (PQC) secured blockchain wallet for Islamic Finance investors, protecting Smart Sukuk ownership (Milkiyah) against future quantum threats.",
+  "requestFramePermissions": []
+}
